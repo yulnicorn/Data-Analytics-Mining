@@ -6,19 +6,19 @@ Python 3.7 - https://www.anaconda.com/python-3-7-package-build-out-miniconda-rel
 
 1. DAM NN.ipynb
 Commands to Run:
-  1. conda activate "environment containing the following python dependencies"
-  2. jupyter notebook
-  3. (Open DAM NN.ipynb in browser)
-  4. (Run the notebook)
+  - conda activate "environment containing the following python dependencies"
+  - jupyter notebook
+  - (Open DAM NN.ipynb in browser)
+  - (Run the notebook)
   
 Python Dependencies:
-  - jupyter 1.0.0
-  - pandas 0.25.1
-  - TensorFlow 1.14.0
-  - matplotlib.pyplot        
-  - Matplotlib 3.1.1
-  - numpy 1.16.5
-  - sklearn 0.21.3
+   - jupyter 1.0.0
+   - pandas 0.25.1
+   - TensorFlow 1.14.0
+   - matplotlib.pyplot        
+   - Matplotlib 3.1.1
+   - numpy 1.16.5
+   - sklearn 0.21.3
 Installation:
 Conda install -c condo-forge numpy pandas matplotlib tensorflow==1.14.0 jupyter sklearn
 
@@ -30,10 +30,10 @@ Output: Markdowns cells are in placed to explain the output.
 ==================================================================================
 2. Cleaning.ipynb
 Commands to Run:
-  1. conda activate "environment containing the following python dependencies"
-  2. jupyter notebook
-  3. (Open cleaning.ipynb in browser)
-  4. (Run the notebook)
+  - conda activate "environment containing the following python dependencies"
+  - jupyter notebook
+  - (Open cleaning.ipynb in browser)
+  - (Run the notebook)
 
 Python Dependencies:
   - jupyter 1.0.0
@@ -54,10 +54,10 @@ Output: Markdowns cells are in placed to explain the output.
 ==================================================================================
 3. DecisionTree.ipynb
 Commands to Run:
-  1. conda activate "environment containing the following python dependencies"
-  2. jupyter notebook
-  3. (Open DecisionTree.ipynb in browser)
-  4. (Run the notebook)
+  - conda activate "environment containing the following python dependencies"
+  - jupyter notebook
+  - (Open DecisionTree.ipynb in browser)
+  - (Run the notebook)
 
 Python Dependencies:
   - jupyter 1.0.0
@@ -77,10 +77,10 @@ Output: Markdowns cells are in placed to explain the output.
 ==================================================================================
 4. EDA(female_imputed/male_imputed/6 attributes).ipynb
 Commands to Run:
-  1. conda activate "environment containing the following python dependencies"
-  2. jupyter notebook
-  3. (Open EDA(female_imputed/male_imputed/6 attributes)).ipynb in browser)
-  4. (Run the notebook)
+  - conda activate "environment containing the following python dependencies"
+  - jupyter notebook
+  - (Open EDA(female_imputed/male_imputed/6 attributes)).ipynb in browser)
+  - (Run the notebook)
 
 Python Dependencies:
   - jupyter 1.0.0
