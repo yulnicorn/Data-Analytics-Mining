@@ -1,6 +1,7 @@
 # Data-Analytics-Mining
 Enivronment Setup:
 Anaconda - https://docs.anaconda.com/anaconda/user-guide/getting-started/
+
 Python 3.7 - https://www.anaconda.com/python-3-7-package-build-out-miniconda-release/
 
 1. DAM NN.ipynb
@@ -26,7 +27,7 @@ Output: Markdowns cells are in placed to explain the output.
 +Graphs
    + training and test accuracy
    + training and test loss
-======================================================================================
+==================================================================================
 2. Cleaning.ipynb
 Commands to Run:
   1. conda activate "environment containing the following python dependencies"
@@ -50,7 +51,7 @@ pip3 install impyute
 Output: Markdowns cells are in placed to explain the output.
   + Dataframe of clean dataset
   + Dataframe of female and male cleaned dataset
-======================================================================================
+==================================================================================
 3. DecisionTree.ipynb
 Commands to Run:
   1. conda activate "environment containing the following python dependencies"
@@ -73,7 +74,7 @@ Output: Markdowns cells are in placed to explain the output.
   + Accuracy of the prediction
   + Graphs
   + Bar chart showing mean values of Decision made by partner for second date base on attr_o, sinc_o, shar_o, amb_o, fun_o, intel_o, like_o
-======================================================================================
+==================================================================================
 4. EDA(female_imputed/male_imputed/6 attributes).ipynb
 Commands to Run:
   1. conda activate "environment containing the following python dependencies"
@@ -100,5 +101,5 @@ Output: Markdowns cells are in placed to explain the output.
   + Histogram based on the rating for same and other race
   + Line chart of mean score of attributes across different age group
   + Line chart of preferred score of attributes across different age group
-======================================================================================
+==================================================================================
 5. 
